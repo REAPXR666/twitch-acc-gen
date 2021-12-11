@@ -1,0 +1,9 @@
+selenium
+pyautogui
+keyboard
+secrets
+future
+faker
+string
+random
+chromedriver
